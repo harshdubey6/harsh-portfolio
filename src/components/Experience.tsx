@@ -6,7 +6,7 @@ const experiences = [
     {
         role: 'Software Intern',
         company: 'Arkaana.ai',
-        period: 'January 2024 - Present',
+        period: 'January 2026 - Present',
         description: 'Contributing to the development of AI-driven solutions, focusing on backend services and API integrations.',
         skills: ['Next.js', 'FastAPI', 'SQL'],
     },
