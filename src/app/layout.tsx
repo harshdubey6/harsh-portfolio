@@ -9,16 +9,16 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Harsh Dubey | Full-stack Engineer',
+  title: 'Harsh Dubey ',
   description: 'Product-focused software engineer building clean, resilient web experiences.',
   icons: {
-    icon: '/images/blr-img.jpg',
-    apple: '/images/blr-img.jpg',
+    icon: '/vercel.svg',
+    apple: '/vercel.svg',
   },
   openGraph: {
     title: 'Harsh Dubey | Full-stack Engineer',
     description: 'Product-focused software engineer building clean, resilient web experiences.',
-    images: ['/images/blr-img.jpg'],
+    images: ['/vercel.svg'],
   },
 }
 
