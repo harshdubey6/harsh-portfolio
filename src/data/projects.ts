@@ -19,7 +19,7 @@ export const projects: Project[] = [
       'Full-stack car rental experience with dynamic fleet browsing, booking flows, and admin-friendly data views.',
     liveUrl: 'https://carrental-pr.vercel.app/',
     githubUrl: 'https://github.com/harshdubey6/car-rental',
-    stack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Supabase', 'Prisma'],
+    stack: ['React', 'JavaScript', 'Tailwind CSS', 'Node.js', 'Express', 'MongoDB'],
     highlights: [
       'Built searchable listings with availability filters and responsive cards tuned for mobile-first browsing.',
       'Implemented booking pipeline with authentication, saved trips, and pricing breakdowns that mirror real rental flows.',
@@ -36,7 +36,7 @@ export const projects: Project[] = [
       'Medium-inspired publishing stack with editor, authentication, and reader-friendly layout.',
     liveUrl: 'https://harshdubey6-blogging-medium.vercel.app/signin',
     githubUrl: 'https://github.com/harshdubey6/medium-blogging-website',
-    stack: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Prisma', 'PostgreSQL'],
+    stack: ['React', 'TypeScript', 'Tailwind CSS', 'Prisma', 'PostgreSQL'],
     highlights: [
       'Crafted a clean, distraction-free editor with autosave and preview for consistent authoring.',
       'Delivered reader pages with performant pagination, image handling, and share-ready meta tags.',
